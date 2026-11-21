@@ -1,0 +1,26 @@
+[
+  {
+    "id": "court-1",
+    "kind": "transcript",
+    "version": 1,
+    "text": "证人周某称，交接时听李某说“文件已交”；其本人没有查看文件。"
+  },
+  {
+    "id": "court-2",
+    "kind": "counsel_statement",
+    "version": 1,
+    "text": "代理人主张证据 E-17 能证明文件已经送达。"
+  },
+  {
+    "id": "court-3",
+    "kind": "clerk_correction",
+    "version": 2,
+    "text": "更正：第一段被引述者为刘某，非李某。"
+  },
+  {
+    "id": "court-4",
+    "kind": "review_note",
+    "version": 1,
+    "text": "E-17 已编入目录，尚未完成质证记录核对。"
+  }
+]
