@@ -1,0 +1,77 @@
+[
+  {
+    "id": "h1",
+    "kind": "procedural",
+    "version": 1,
+    "page": 1,
+    "seg": 1,
+    "speaker": "审判长",
+    "text": "审判长宣布现在开庭，核对当事人身份。"
+  },
+  {
+    "id": "h2",
+    "kind": "other",
+    "version": 1,
+    "page": 1,
+    "seg": 2,
+    "speaker": "原代",
+    "text": "代理人询问证人当晚是否在仓库附近。"
+  },
+  {
+    "id": "h3",
+    "kind": "transcript",
+    "version": 1,
+    "page": 2,
+    "seg": 1,
+    "speaker": "证人甲",
+    "text": "证人甲称，当晚看到被告在仓库门口。"
+  },
+  {
+    "id": "h4",
+    "kind": "transcript",
+    "version": 1,
+    "page": 2,
+    "seg": 2,
+    "speaker": "证人甲",
+    "text": "证人甲称，听值班员小杜说“仓库的灯整夜亮着”。"
+  },
+  {
+    "id": "h5",
+    "kind": "counsel_statement",
+    "version": 1,
+    "page": 2,
+    "seg": 3,
+    "speaker": "原代",
+    "text": "代理人主张证据 E-17 与证据3号能证明仓库门已上锁。"
+  },
+  {
+    "id": "h6",
+    "kind": "procedural",
+    "version": 1,
+    "page": 2,
+    "seg": 4,
+    "speaker": "审判长",
+    "text": "审判长宣布出示证据3号，双方开始质证。"
+  },
+  {
+    "id": "h7",
+    "kind": "transcript",
+    "version": 1,
+    "page": 4,
+    "seg": 1,
+    "speaker": "被代",
+    "text": "被代称，证人所述时间与监控录像不符。"
+  },
+  {
+    "id": "h8",
+    "kind": "review_note",
+    "version": 1,
+    "text": "E-17 已编入目录，尚未完成质证记录核对。"
+  },
+  {
+    "id": "h9",
+    "kind": "clerk_correction",
+    "version": 1,
+    "text": "更正：h4 被引述者为值班员老杜，非值班员小杜。"
+  }
+]

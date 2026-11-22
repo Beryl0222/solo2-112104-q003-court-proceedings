@@ -1,0 +1,26 @@
+[
+  {
+    "id": "h3",
+    "kind": "transcript",
+    "version": 2,
+    "page": 2,
+    "seg": 1,
+    "speaker": "证人甲",
+    "text": "证人甲称，当晚看到被告在仓库北门。"
+  },
+  {
+    "id": "h10",
+    "kind": "transcript",
+    "version": 1,
+    "page": 3,
+    "seg": 1,
+    "speaker": "被告",
+    "text": "被告称，当晚并不在仓库附近。"
+  },
+  {
+    "id": "h11",
+    "kind": "clerk_correction",
+    "version": 1,
+    "text": "更正：h7 发言人为被告，非被代。"
+  }
+]
